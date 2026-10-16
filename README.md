@@ -16,13 +16,13 @@ infrastructure work.
 
 Planned sections (created only when there is real content for them):
 
-- `virtualization/` — VMware and virtualization
-- `windows-server/` — Active Directory, Group Policy, PowerShell
-- `linux/` — Linux, Nginx, HAProxy, Ansible
-- `networking/` — L2/L3 and network diagnostics
-- `monitoring/` — monitoring and observability
-- `security-hardening/` — infrastructure security and hardening
-- `troubleshooting/` — diagnostic checklists and runbooks
+- `virtualization/`: VMware and virtualization
+- `windows-server/`: Active Directory, Group Policy, PowerShell
+- `linux/`: Linux, Nginx, HAProxy, Ansible
+- `networking/`: L2/L3 and network diagnostics
+- `monitoring/`: monitoring and observability
+- `security-hardening/`: infrastructure security and hardening
+- `troubleshooting/`: diagnostic checklists and runbooks
 
 ## How case studies are written
 

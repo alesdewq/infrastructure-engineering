@@ -1,6 +1,6 @@
 # Case study: TODO title
 
-> **Privacy checklist before publishing** — remove or replace with placeholders:
+> **Privacy checklist before publishing** - remove or replace with placeholders:
 > employer and customer names, internal IP addresses and subnets, domain and host names,
 > user names, configuration fragments, log excerpts, screenshots with internal data.
 > Confirm that publishing does not break the employer's rules.
