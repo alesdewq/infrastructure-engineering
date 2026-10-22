@@ -11,7 +11,7 @@ infrastructure work.
 
 | Section | Topics | Status |
 |---|---|---|
-| [case-studies/](case-studies/) | Troubleshooting and incident write-ups | Template only |
+| [case-studies/](case-studies/) | Troubleshooting and incident write-ups | 1 case study |
 
 Planned sections (created only when there is real content for them):
 
